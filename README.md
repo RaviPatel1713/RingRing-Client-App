@@ -11,3 +11,7 @@ To make this technology more accessible, this project aims to create a product s
 Similar to the protection many smartphones have today, this mechanism can provide additional security to the household while being designed as a poka-yoke case for circumstances where users may need to leave the household and not worry about locking the door. The proposed project will consider an automated mechanism to lock doors using optical sensors and timeout protocols based on internally collected data on the onboard chip. The proposed mechanisms should not interfere with the regular functions of the door in case of product malfunctions or lack of electricity.
 
 In addition, part of this project's goal is to understand and build a communication protocol for storing the data and onboard model updating without the need for constant internet communication. This approach alleviates the need for a continuous internet connection. Moreover, the components utilized by such a product promise low electricity consumption, allowing continuous usage without noticeable increases in electricity bills paid by users.
+
+## Repo Info
+
+This repo is the client-side implementation of the RingRing (Ring MVP version) using React Native and Expo project wrapper/manager.
